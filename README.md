@@ -7,7 +7,7 @@
  
 ** Tech Stack **
 
-Design : UXUI , Case study , wireframesm , prototype , Design systems
+Design : UXUI , Case study , wireframes , prototype , Design systems
 
 Design tools : figma , Adobe Xd, sketch , webflow 
 
@@ -17,7 +17,7 @@ Front-end: HTML, CSS, JS, Reactjs
 
 Back-end: Node.js
 
-Databases:mongoDB
+Database :mongoDB
 
 Tools: VS Code, GitHub.
 
