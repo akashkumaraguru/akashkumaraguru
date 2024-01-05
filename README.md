@@ -7,19 +7,19 @@
  
 **Tech Stack**
 
-Design :  UXUI , Case study , wireframes , prototype , Design systems | 
+Design -  UXUI , Case study , wireframes , prototype , Design systems 
 
- Design tools : figma , Adobe Xd, webflow  |
+ **Design tools** - figma , Adobe Xd, webflow  
  
- **Programming Languages**: J ava , javascript, python  | 
+ **Programming Languages**: J ava , javascript, python  
 
-Front-end:  HTML, CSS, JS, Reactjs  |
+**Front-end** -  HTML, CSS, JS, Reactjs  
 
-Back-end: Node.js   | 
+**Back-end** - Node.js   
 
-Database: mongoDB    |
+**Database** - mongoDB    
 
-Tools:  VSCode, GitHub.  |
+**Tools** -  VSCode, GitHub.  
 
 <!---
 akashkumaraguru/akashkumaraguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
