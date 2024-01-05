@@ -11,7 +11,7 @@ Design -  UXUI , Case study , wireframes , prototype , Design systems
 
  **Design tools** - figma , Adobe Xd, webflow  
  
- **Programming Languages**: J ava , javascript, python  
+ **Programming Languages** - Java , javascript, python  
 
 **Front-end** -  HTML, CSS, JS, Reactjs  
 
