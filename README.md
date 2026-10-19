@@ -42,26 +42,6 @@ A personal project built to make visual exploration easier for designers and cre
 
 🔗 [Try Niram Kalavai](https://niram-kalavai.vercel.app/)
 
-### 🏥 Healthcare Product Design
-**Designing digital healthcare experiences at Gnapi Technologies.**
-
-Working on healthcare products and workflows focused on usability, accessibility, and efficient clinical experiences.
-
-- Healthcare interfaces and appointment workflows
-- AI-assisted clinical documentation
-- Scheduling and patient management experiences
-- Design systems and responsive interfaces
-
-### 🎟️ TicketsPi
-**Movie and event booking experiences.**
-
-Working on digital experiences for a movie and event booking platform serving users in Canada, including web and check-in experiences.
-
-### 🧩 Other Explorations
-
-I also explore product ideas and design challenges across data management, test management, fleet management, and web experiences.
-
----
 
 ## 🧰 My Tech Stack
 
